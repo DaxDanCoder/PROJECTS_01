@@ -1,5 +1,5 @@
 # PROJECTS_01
-all projects made in M1 MASG
+quelques projets faits en M1 MASG
 
 - avoir un compte sur copernicus avant de pouvoir télécharger des données de climat avec ce code
 - Kriging script : installer au préalable des packages nécessaires
